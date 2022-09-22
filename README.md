@@ -1,4 +1,4 @@
-# ddos-script-node-js
+# Simple DoS script in Node.Js to test local services
 
 Usage:
 `node ddos.js [url] [request-per-second]`
